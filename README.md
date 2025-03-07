@@ -1,9 +1,11 @@
 # 전도명 이력서
 
 ## 📞 Contact  
-이메일: [domyoung.jeon@gmail.com]  
-Github: [https://github.com/D3vJ30n](https://github.com/D3vJ30n)  
-Blog: [기술 블로그](https://velog.io/@d3vj30n)
+이메일: domyoung.jeon@gmail.com
+
+Github: https://github.com/D3vJ30n
+
+Blog: https://velog.io/@d3vj30n
 
 ---
 
