@@ -252,5 +252,6 @@ Koyeb 무료 플랜의 정책상 서버가 24시간 연속으로 운영되지 �
 ## 🔎 Additional Information  
 
 ### TIL (Today I Learned)  
-- Spring Boot, Database 설계, Docker 기반 배포, CI/CD 구축 등 실무에서 필요한 백엔드 개발 지식을 정리 
+- Spring Boot, Database 설계, Docker 기반 배포, CI/CD 구축 등 실무에서 필요한 백엔드 개발 지식을 정리
+  
 🔎 [Github Repository](https://github.com/D3vJ30n/be-dev)
