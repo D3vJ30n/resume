@@ -18,7 +18,7 @@ Koyeb 무료 플랜의 정책상 서버가 24시간 연속으로 운영되지 �
 ---
 
 ## 📌 Introduce  
-백엔드 개발자로서 문제 해결에 보람을 느끼며, 사용자 중심의 서비스 개발을 목표로 합니다.  
+문제 해결에 보람을 느낍니다.
 디자인과 마케팅 경험을 바탕으로 데이터 기반의 의사결정을 중요하게 생각하며, 효율적인 백엔드 시스템 설계에 집중하고 있습니다.  
 특히 Java와 Spring Boot를 활용한 안정적인 서비스 개발을 선호하며, 트러블 슈팅은 Velog로 개발 과정은 Github에 기록하고 있습니다.  
 
@@ -261,6 +261,6 @@ Koyeb 무료 플랜의 정책상 서버가 24시간 연속으로 운영되지 �
 ## 🔎 Additional Information  
 
 ### TIL (Today I Learned)  
-- Spring Boot, Database 설계, Docker 기반 배포, CI/CD 구축 등 실무에서 필요한 백엔드 개발 지식을 정리
+- Spring Boot, Database 설계, Docker 기반 배포, CI/CD 구축 등 실무에서 필요한 엔지니어 백엔드 개발 지식을 정리
   
 🔎 [Github Repository](https://github.com/D3vJ30n/be-dev)
